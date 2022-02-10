@@ -10,7 +10,7 @@ defusedxml==0.6.0         # via python3-openid, social-auth-core
 django-debug-toolbar-template-profiler==1.0.2
 django-debug-toolbar==1.11
 django-extensions==2.1.7
-django==2.2.1
+django==2.2.27
 idna==2.8                 # via requests
 oauthlib==3.0.1           # via requests-oauthlib, social-auth-core
 pillow==6.0.0
