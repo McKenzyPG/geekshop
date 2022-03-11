@@ -13,7 +13,7 @@ django-extensions==2.1.7
 django==2.2.1
 idna==2.8                 # via requests
 oauthlib==3.0.1           # via requests-oauthlib, social-auth-core
-pillow==6.0.0
+pillow==9.0.1
 psycopg2==2.8.2
 pydotplus==2.0.2
 pyjwt==1.7.1              # via social-auth-core
